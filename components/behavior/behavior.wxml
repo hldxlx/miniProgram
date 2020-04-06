@@ -1,0 +1,6 @@
+<!--components/behavior/behavior.wxml-->
+<text>components/behavior/behavior.wxml{{title.value}}
+</text>
+数据监听器observers
+  {{num}}
+   <button bindtap="update">+</button>

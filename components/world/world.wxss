@@ -1,0 +1,9 @@
+/* components/world/world.wxss */
+.red{
+  background: red;
+  width: 700rpx;
+  height: 100rpx;
+}
+.hover{
+  background: blue !important;
+}

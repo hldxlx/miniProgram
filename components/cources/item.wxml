@@ -1,0 +1,9 @@
+
+<view class="item">
+   {{title}}
+   <text class="del" bindtap="delMyItem">x</text> 
+    <slot name="header"></slot>
+    <slot></slot>
+     <slot name="footer"></slot>
+   <!-- <text class="del" bindtap="delItem">x</text> -->
+</view>

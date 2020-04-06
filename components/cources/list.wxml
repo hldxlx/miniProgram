@@ -1,0 +1,8 @@
+
+<view>
+   <!-- <c-item binddel="delCource" idx="{{index}}" title="{{item}}" wx:for="{{list}}"/> -->
+    <c-item binddels="remove" title="{{item}}" idx="{{index}}" wx:for="{{binsom}}"/>
+    标签内的内容放在插槽中
+    <header slot="header">header</header>
+    <footer slot="footer">footer</footer>
+</view>

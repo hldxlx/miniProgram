@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "my-hello":"../../components/world/world",
+    "my-nav":"../../components/cources/list",
+    "my-behavior":"../../components/behavior/behavior",
+    "c-world":"../../components/world/world",
+    "c-hello":"../../components/hello/hello"
+  }
+}

@@ -1,0 +1,6 @@
+
+world 引用 hello组件<hello/>
+<view>{{msg}}</view>
+<button bindtap="change">修改hello1</button>
+<slot></slot>
+<view hover-class="hover" class="red"></view>
